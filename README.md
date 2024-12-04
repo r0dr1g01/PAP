@@ -5,6 +5,6 @@ Rodrigo Alexandre Duque Estevens
 12ºPTEI
 Escola Secundária Miguel Torga
 
-Mão Robótica
+Projeto: Mão Robótica
 
 
