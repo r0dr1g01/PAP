@@ -1,11 +1,11 @@
 Detalhes técnicos do manipulador robótico:
 
 Material usado: 
-Plástico PLA
+Plástico PLA;
 Servos MG995; 
 Placa Arduino NANO; 
 Capacitador; 
-Bateria 5V
+Bateria 5V;
 
 Peso do Braço:
 ?
