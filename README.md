@@ -1,7 +1,7 @@
 # PAP
 PAP - Mão Robótica
 
-Rodrigo Alexandre Duque Estevens
+Rodrigo Estevens
 12ºPTEI
 Escola Secundária Miguel Torga
 
