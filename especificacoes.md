@@ -1,6 +1,6 @@
 Detalhes técnicos do manipulador robótico:
 
-Material usado 
+Material usado: 
 Plástico PLA
 Servos MG995; 
 Placa Arduino NANO; 
