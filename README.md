@@ -1,5 +1,5 @@
 # PAP - Prova de Aptidão Profissional
-PAP - Manipulador Robotico em Serie com 5 Graus de liberdade para estudar a cinemática direta e inversa.
+PAP - Manipulador Robotico em Serie com 6 Graus de liberdade para estudar a cinemática direta e inversa.
 
 Nome do Projeto: Manipulador Robótico
 
