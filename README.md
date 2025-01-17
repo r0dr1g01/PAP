@@ -42,10 +42,3 @@ Para a fabricação das peças, utilizei a **impressora 3D Bambu Lab X1 Series**
 
 ## 🚀 Status do Projeto  
 ⚠️ **Este projeto ainda está em desenvolvimento!** ⚠️  
-
----
-
-## 📜 Licença  
-Este projeto está sob a licença **MIT**.  
-
-📩 Para mais informações, entre em contato!  
