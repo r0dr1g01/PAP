@@ -25,6 +25,9 @@ Para a fabricação das peças, utilizei a **impressora 3D Bambu Lab X1 Series**
 
 📂 Na pasta [videos](CINEMÁTICA), é possível visualizar um **time-lapse** do processo de impressão das peças utilizadas no projeto.
 
+## 💻 Software  
+*Em breve...*
+
 ### 🔧 **Componentes Utilizados**  
 - 🔹 **3x Servos MG996R** (Alta potência, usados nas juntas principais)  
 - 🔹 **3x Servos MG90S** (Menores, usados em articulações secundárias)  
