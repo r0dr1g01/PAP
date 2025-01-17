@@ -33,8 +33,7 @@ Para a fabricação das peças, utilizei a **impressora 3D Bambu Lab X1 Series**
 ---
 
 ## 🔄 Atualizações Recentes  
-✔️ Adicionada imagem na pasta **"Media"**  
-✔️ Adicionada imagem na pasta **"Media"** _(remova se for duplicado)_  
+✔️ Adicionada 2 imagens na pasta **"Media"**  
 
 ---
 
