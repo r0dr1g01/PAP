@@ -1,22 +1,49 @@
-# PAP - Prova de Aptidão Profissional
-PAP - Manipulador Robotico em Serie com 6 Graus de liberdade para estudar a cinemática direta e inversa.
+# 📌 PAP - Prova de Aptidão Profissional  
+## 🤖 Manipulador Robótico em Série com 6 Graus de Liberdade  
 
-Nome do Projeto: Manipulador Robótico
+### **Nome do Projeto:** Manipulador Robótico  
 
-![image](https://github.com/user-attachments/assets/9df2e6b2-d322-453d-8648-60100b380843)
+![Manipulador Robótico](https://github.com/user-attachments/assets/9df2e6b2-d322-453d-8648-60100b380843)  
 
+---
 
-Esta Mão Robótica trata-se de um "Manipulador" que transfere objetos de um lugar para outro. Com este projeto, pretendo demonstrar que este tipo de robótica seja o futuro da automação na manufatura, montagem, cirugia robótica, próteses robóticas, exploração submarina entre outros. Utilizei a impressora 3D Bambu Lab X1 Series, onde na pasta "videos" mostra um time-lapse das peças utilizadas neste projeto.
+## 🦾 Sobre o Projeto  
+Este projeto consiste no desenvolvimento de um **Manipulador Robótico** com **6 graus de liberdade** para estudar a cinemática direta e inversa, capaz de transferir objetos de um local para outro.  
 
-Updates:
- - Adicionado imagem na pasta "Media"
- - Adicionado imagem na pasta "Media"
+### 📌 **Objetivo**  
+O objetivo é demonstrar a importância e o potencial desse tipo de robótica em diversas áreas, incluindo:  
 
+✅ **Automação industrial e manufatura**  
+✅ **Montagem e produção automatizada**  
+✅ **Cirurgia robótica e próteses avançadas**  
+✅ **Exploração submarina e espacial**  
 
-OBS: !! ESTE PROJETO AINDA ESTA EM DESENVOLVIMENTO !!
+---
 
+## 🏗️ Construção do Projeto  
+Para a fabricação das peças, utilizei a **impressora 3D Bambu Lab X1 Series**.  
 
+📂 Na pasta **"videos"**, é possível visualizar um **time-lapse** do processo de impressão das peças utilizadas no projeto.
 
+### 🔧 **Componentes Utilizados**  
+- 🔹 **3x Servos MG996R** (Alta potência, usados nas juntas principais)  
+- 🔹 **3x Servos MG90S** (Menores, usados em articulações secundárias)  
+- 🔹 **Placa Arduino Uno** (Controlador principal do manipulador)  
 
+---
 
+## 🔄 Atualizações Recentes  
+✔️ Adicionada imagem na pasta **"Media"**  
+✔️ Adicionada imagem na pasta **"Media"** _(remova se for duplicado)_  
 
+---
+
+## 🚀 Status do Projeto  
+⚠️ **Este projeto ainda está em desenvolvimento!** ⚠️  
+
+---
+
+## 📜 Licença  
+Este projeto está sob a licença **MIT**.  
+
+📩 Para mais informações, entre em contato!  
