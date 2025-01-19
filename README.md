@@ -23,7 +23,7 @@ O objetivo é demonstrar a importância e o potencial desse tipo de robótica em
 ## 🏗️ Construção do Projeto  
 Para a fabricação das peças, utilizei a impressora 3D **Bambu Lab X1C**.  
 
-📂 Na pasta [videos](Cinemática), é possível visualizar um **time-lapse** do processo de impressão das peças utilizadas no projeto.
+📂 Na pasta [videos](Time-Lapse), é possível visualizar um **time-lapse** do processo de impressão das peças utilizadas no projeto.
 
 ### 🔧 **Componentes Utilizados**  
 - 🔹 **3x Servos MG996R** (Alta potência, usados nas juntas principais)  
