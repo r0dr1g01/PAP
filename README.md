@@ -3,7 +3,8 @@
 
 ### **Nome do Projeto:** Manipulador Robótico  
 
-![Manipulador Robótico](https://github.com/user-attachments/assets/9df2e6b2-d322-453d-8648-60100b380843)  
+![IMG_0305](https://github.com/user-attachments/assets/30f0268a-9469-4cc2-8e9c-083a0d751ddf)
+
 
 ---
 
