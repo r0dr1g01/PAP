@@ -1,4 +1,4 @@
-# 📌 PAP - Prova de Aptidão Profissional  
+#  PAP - Prova de Aptidão Profissional  
 ## 🤖 Manipulador Robótico em Série com 6 Graus de Liberdade  
 
 ### **Nome do Projeto:** Manipulador Robótico  
