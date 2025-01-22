@@ -3,6 +3,13 @@
 
 ### **Nome do Projeto:** Manipulador Robótico  
 
+---
+
+## 🔄 Atualizações Recentes  
+### 📅 **Últimas Atualizações**  
+✔️ Adicionada 2 imagens na pasta **"Media"**  
+✔️ Adicionado primeiro video teste na pasta [Cinemática](Cinemática/teste_mao_robotica.mp4)
+
 ![IMG_0305](https://github.com/user-attachments/assets/30f0268a-9469-4cc2-8e9c-083a0d751ddf)
 
 
@@ -37,10 +44,5 @@ Para a fabricação das peças, utilizei a impressora 3D **Bambu Lab X1C**.
 
 ---
 
-## 🔄 Atualizações Recentes  
-✔️ Adicionada 2 imagens na pasta **"Media"**  
-
----
-
 ## 🚀 Status do Projeto  
-⚠️ **Este projeto ainda está em desenvolvimento!** ⚠️  
+⚠️ **Este projeto ainda está em desenvolvimento!** ⚠️
