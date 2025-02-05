@@ -10,7 +10,8 @@
 ✔️ Adicionada 2 imagens na pasta **"Media"**  
 ✔️ Adicionado primeiro video teste na pasta [Cinemática](Cinemática/teste_mao_robotica.mp4)
 
-![IMG_0305](https://github.com/user-attachments/assets/30f0268a-9469-4cc2-8e9c-083a0d751ddf)
+![9a10e599-283b-490b-8f2f-5563c3b23f6d](https://github.com/user-attachments/assets/6b2bef09-b6f8-452b-828c-474cb73002bc)
+
 
 
 ---
