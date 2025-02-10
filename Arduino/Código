@@ -1,1 +1,114 @@
+import pyfirmata
+from tkinter import *
 
+board = pyfirmata.Arduino('COM11')
+
+iter8 = pyfirmata.util.Iterator(board)
+iter8.start()
+
+pin7 = board.get_pin('d:7:s')  # Servo pino 7
+pin6 = board.get_pin('d:6:s')  # Servo pino 6
+pin5 = board.get_pin('d:5:s')  # Servo pino 5
+pin4 = board.get_pin('d:4:s')  # Servo pino 4
+pin3 = board.get_pin('d:3:s')  # Servo pino 3
+pin2 = board.get_pin('d:2:s')  # Servo pino 2
+
+# Iniciar os servos na posição 90 graus
+pin6.write(90)
+pin7.write(90)
+pin5.write(90)
+pin4.write(90)
+pin3.write(90)
+pin2.write(90)
+
+def move_servo7(a):
+    angle = float(a)
+    pin7.write(angle)  # Mover servo pino 7
+
+def move_servo6(a):
+    angle = float(a)
+    pin6.write(angle)  # Mover servo pino 6
+
+def move_servo5(a):
+    angle = float(a)
+    pin5.write(angle)  # Mover servo pino 5
+
+def move_servo4(a):
+    angle = float(a)
+    pin4.write(angle)  # Mover servo pino 4
+
+def move_servo3(a):
+    angle = float(a)
+    pin3.write(angle)  # Mover servo pino 3
+
+def move_servo2(a):
+    angle = float(a)
+    if angle > 90:
+        angle = 90  # Limitar o ângulo máximo a 90 graus
+    pin2.write(angle)  # Mover servo pino 2
+
+# Criar GUI
+root = Tk()
+
+# Slidebars
+scale7 = Scale(root,
+              command=move_servo7,
+              from_=0,  
+              to=180,
+              orient=HORIZONTAL,
+              length=400,
+              label='Base')
+scale7.set(90)
+scale7.pack(anchor=CENTER)
+
+scale6 = Scale(root,
+              command=move_servo6,
+              from_=0,  
+              to=180,
+              orient=HORIZONTAL,
+              length=400,
+              label='Antebraço')
+scale6.set(90)
+scale6.pack(anchor=CENTER)
+
+scale5 = Scale(root,
+              command=move_servo5,
+              from_=0,  
+              to=180,
+              orient=HORIZONTAL,
+              length=400,
+              label='Braço')
+scale5.set(90)
+scale5.pack(anchor=CENTER)
+
+scale4 = Scale(root,
+              command=move_servo4,
+              from_=0,  
+              to=180,
+              orient=HORIZONTAL,
+              length=400,
+              label='Pulso')
+scale4.set(90)
+scale4.pack(anchor=CENTER)
+
+scale3 = Scale(root,
+              command=move_servo3,
+              from_=0,  
+              to=180,
+              orient=HORIZONTAL,
+              length=400,
+              label='Punho')
+scale3.set(90)
+scale3.pack(anchor=CENTER)
+
+scale2 = Scale(root,
+              command=move_servo2,
+              from_=0,  
+              to=90,  # Limitar o controle 90 graus
+              orient=HORIZONTAL,
+              length=400,
+              label='Garra')
+scale2.set(90)
+scale2.pack(anchor=CENTER)
+
+root.mainloop()
