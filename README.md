@@ -38,7 +38,7 @@ Para a estrutura do braço robótico, utilizei a impressora 3D Bambu Lab X1 Carb
  - Servo MG90s (x3) 
  - Placa Arduino UNO (x1) 
  - Fonte de Alimentação 5V 
- - Plástico PLA 
+ - Plástico PLA biodegrdável
 
 Ambos os servos utilizam as engrenagens em metal, para um melhor torque e não sofrer danos precocemente. Na fonte de alimentação utilizei um carregador de telemóvel e cortei a ponta USB-C para expor o cobre, e de seguida implementei um Bucin para evitar falhas de eletricidade e uma fácil conexão. Todos os servos estão conectados à fonte de energia, pois a placa arduino não teria tensão o suficiente para a alimentação dos mesmos, assim causando falhas nos servos podendo até danificar a garra.  assim diretamente alimentado o servo a partir da placa. 
 
@@ -63,7 +63,13 @@ Todo o código do GUI está disponivel na pasta [Arduino](Arduino), que foi cria
 
 ## 🌐 Links do Manipulador
 
-Modelo 3D - [https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023](https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023)
-Componentes - 
+Modelo 3D - [https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023](https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023)  
+
+Componentes    
+- [Servos DM996]()
+- [Servos MG90s]()
+- [Placa Arduino]()
+- [Cabos]()
+
 
 
