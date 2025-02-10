@@ -1,13 +1,15 @@
 #  PAP - Prova de Aptidão Profissional  
-## 🤖 Manipulador Robótico em Série com 6 Graus de Liberdade  
+## Manipulador Robótico em Série com 6 Graus de Liberdade  
 
 
 ---
 
 ## 🔄 Atualizações Recentes  
-### 📅 **Últimas Atualizações**  
-✔️ Adicionada 2 imagens na pasta **"Media"**  
-✔️ Adicionado primeiro video teste na pasta [Cinemática](Cinemática/teste_mao_robotica.mp4)
+### **Últimas Atualizações 10/12/2025**  
+✔️ Atualizado [README.md](README.MD)  
+✔️ Pasta [Arduino](Arduino) atualizada.  
+
+
 
 ![IMG_0431](https://github.com/user-attachments/assets/cfbc4f0e-fd0b-4940-b419-de58f3bd8d64)
 
@@ -40,10 +42,28 @@ Para a estrutura do braço robótico, utilizei a impressora 3D Bambu Lab X1 Carb
 
 Ambos os servos utilizam as engrenagens em metal, para um melhor torque e não sofrer danos precocemente. Na fonte de alimentação utilizei um carregador de telemóvel e cortei a ponta USB-C para expor o cobre, e de seguida implementei um Bucin para evitar falhas de eletricidade e uma fácil conexão. Todos os servos estão conectados à fonte de energia, pois a placa arduino não teria tensão o suficiente para a alimentação dos mesmos, assim causando falhas nos servos podendo até danificar a garra.  assim diretamente alimentado o servo a partir da placa. 
 
+---
+
 ## 💻 Software  
-*Em breve...*
+Para a criação do GUI de controlo do manipulador robótico, utilizei as bibliotecas: 
+
+[**pyFirmata**](https://arduinofactory.com/pyfirmata/)  
+Permite a comunicação entre o python e o arduino via protocolo Firmata permite controlar pinos de entrada/saída, ler sensores, acionar motores, etc podendo assim utilizar mais comandos diversos, que me permitiu a criação do GUI.
+
+[**Tkinter**](https://docs.python.org/3/library/tkinter.html)  
+Esta biblioteca padrão do python, permitiu me a criação da interface gráfica (GUI) e para criar as slidebars importei todos os módulos do Tkinter (from tkinter import *).  
+
+![image](https://github.com/user-attachments/assets/05cca5cf-4a47-42d8-a570-48573f46d707)
+
+
+Todo o código do GUI está disponivel na pasta [Arduino](Arduino), que foi criado no python IDE. Para que a comunicação entre o Python e o Arduino seja possivel, e necessário importar a biblioteca **Standart Firmata** para a placa arduino. Esta biblioteca também está disponivel na mesma pasta do código. o Python utiliza a biblioteca pyFirmata que permite enviar comandos via porta USB para o Arduino. O pyFirmata comunica-se com o Arduino pela porta USB, enviando pacotes de dados que o Arduino interpreta e executa.
+
 
 ---
 
-## 🚀 Status do Projeto  
-⚠️ **Este projeto ainda está em desenvolvimento!** ⚠️
+## 🌐 Links do Manipulador
+
+Modelo 3D - [https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023](https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023)
+Componentes - 
+
+
