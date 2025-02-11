@@ -5,9 +5,9 @@
 ---
 
 ## 🔄 Atualizações Recentes  
-### **Últimas Atualizações 10/12/2025**  
+### **Últimas Atualizações 11/12/2025**  
 ✔️ Atualizado [README.md](README.MD)  
-✔️ Pasta [Arduino](Arduino) atualizada.  
+
 
 
 
