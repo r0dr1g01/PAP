@@ -66,9 +66,9 @@ Todo o código do GUI está disponivel na pasta [Arduino](Arduino), que foi cria
 Modelo 3D - [https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023](https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-con-control-de-smartphone-2023)  
 
 Componentes    
-- [Servos DM996]()
-- [Servos MG90s]()
-- [Placa Arduino]()
+- [Servos DM996](https://www.amazon.es/dp/B09WRBHSVD?ref=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&ref_=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&social_share=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&starsLeft=1&skipTwisterOG=1&th=1)
+- [Servos MG90s](https://www.amazon.es/dp/B086V7TXXC?ref=ppx_pop_mob_ap_share)
+- [Placa Arduino](https://www.amazon.es/dp/B007R9TUJE?ref=ppx_pop_mob_ap_share)
 - [Cabos]()
 
 
