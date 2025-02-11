@@ -5,7 +5,7 @@
 ---
 
 ## 🔄 Atualizações Recentes  
-### **Últimas Atualizações 11/12/2025**  
+### **Últimas Atualizações 11/02/2025**  
 ✔️ Atualizado [README.md](README.MD)  
 
 
