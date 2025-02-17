@@ -5,7 +5,7 @@
 ---
 
 ## 🔄 Atualizações Recentes  
-### **Últimas Atualizações 11/02/2025**  
+### **Últimas Atualizações 17/02/2025**  
 ✔️ Atualizado [README.md](README.MD)  
 
 
@@ -69,7 +69,17 @@ Componentes
 - [Servos DM996](https://www.amazon.es/dp/B09WRBHSVD?ref=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&ref_=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&social_share=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&starsLeft=1&skipTwisterOG=1&th=1)
 - [Servos MG90s](https://www.amazon.es/dp/B086V7TXXC?ref=ppx_pop_mob_ap_share)
 - [Placa Arduino](https://www.amazon.es/dp/B007R9TUJE?ref=ppx_pop_mob_ap_share)
-- [Cabos]()
+
+Videos que usei para o projeto
+- [https://www.youtube.com/watch?v=LEyybxgEqkY&t=560s](https://www.youtube.com/watch?v=LEyybxgEqkY&t=560s)
+- [https://www.youtube.com/watch?v=9NtildSmgyk&t=308s](https://www.youtube.com/watch?v=9NtildSmgyk&t=308s)
+- [https://www.youtube.com/watch?v=JtcAn0P8AP0](https://www.youtube.com/watch?v=JtcAn0P8AP0)
+- [https://www.youtube.com/watch?v=cElfbKf3FCg&t=25s](https://www.youtube.com/watch?v=cElfbKf3FCg&t=25s)
+- [https://www.youtube.com/watch?v=ibf5cx221hk](https://www.youtube.com/watch?v=ibf5cx221hk)
+
+
+
+
 
 
 
