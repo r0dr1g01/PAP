@@ -68,8 +68,9 @@ Modelo 3D - [https://cults3d.com/pt/modelo-3d/gadget/brazo-robotico-arduino-diy-
 Componentes    
 - [Servos DM996](https://www.amazon.es/dp/B09WRBHSVD?ref=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&ref_=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&social_share=cm_sw_r_cso_em_apan_dp_EQW96K82P8QHSXR28RHJ&starsLeft=1&skipTwisterOG=1&th=1)
 - [Servos MG90s](https://www.amazon.es/dp/B086V7TXXC?ref=ppx_pop_mob_ap_share)
-- [Placa Arduino](https://www.amazon.es/dp/B007R9TUJE?ref=ppx_pop_mob_ap_share)
+- [Placa Arduino](https://www.amazon.es/dp/B007R9TUJE?ref=ppx_pop_mob_ap_share)  
 
+## 🤝 Agradecimentos  
 Videos que usei para o projeto
 - [https://www.youtube.com/watch?v=LEyybxgEqkY&t=560s](https://www.youtube.com/watch?v=LEyybxgEqkY&t=560s)
 - [https://www.youtube.com/watch?v=9NtildSmgyk&t=308s](https://www.youtube.com/watch?v=9NtildSmgyk&t=308s)
@@ -77,6 +78,8 @@ Videos que usei para o projeto
 - [https://www.youtube.com/watch?v=cElfbKf3FCg&t=25s](https://www.youtube.com/watch?v=cElfbKf3FCg&t=25s)
 - [https://www.youtube.com/watch?v=ibf5cx221hk](https://www.youtube.com/watch?v=ibf5cx221hk)
 
+Ferramentas de Pesquisa  
+- [ChatGPT](https://openai.com/index/chatgpt/), para explicar me mais profundamente do tkinter e como melhorar o meu menu.
 
 
 
